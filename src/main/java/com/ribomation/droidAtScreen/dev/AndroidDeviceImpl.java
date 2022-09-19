@@ -7,7 +7,7 @@ import java.awt.image.BufferedImage;
 import java.io.IOException;
 
 /**
- * Implementation of {@link com.ribomation.droidAtScreen.dev.AndroidDevice}, that hides all
+ * Implementation of {@link AndroidDevice}, that hides all
  * Android tool specific invocations.
  *
  * @user jens
